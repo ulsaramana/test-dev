@@ -1,1 +1,2 @@
 this is a new test file for demo
+this is to check git diff command
