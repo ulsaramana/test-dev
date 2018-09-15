@@ -1,7 +1,6 @@
 making some random changes on my laptop
-<<<<<<< HEAD
-
 this line was added on laptop
-=======
-this line added online
->>>>>>> 5435d15eaed722361831318041be0f8ffe438099
+another online
+line3
+line4
+line5
