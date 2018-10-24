@@ -5,11 +5,13 @@ pipeline {
         stage('build') {
             steps {
                 echo "Building a maven project........!"
+                sh 'mvn compile'
             }
         }
-        stage('package') {
+        stage('test') {
             steps {
-                echo "Packaging the maven project........!"
+                echo "Testing........!"
+                sh 'mvn test'
             }
         }
         
