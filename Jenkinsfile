@@ -17,9 +17,10 @@ pipeline {
       }
     
     }
-    stage('Package') {
+    stage('cleanup') {
       steps {
-          echo "Packaging......!"
+          echo "Cleaning up the workspace"
+          cleanWs()
       }  
     }
   }
