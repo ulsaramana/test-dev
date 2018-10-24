@@ -1,2 +1,2 @@
 # test-dev
-test repo for chef and salt
+demo file for maven and jenkins pipeline demo projects
