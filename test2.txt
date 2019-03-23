@@ -1,3 +1,1 @@
-this is a new test file for demo
-this is to check git diff command
-making changes for git poll
+Added a new file on my local machine
